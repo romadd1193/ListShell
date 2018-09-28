@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
     private Fragment currentFragment = null;
     private FragmentTransaction ft;
 
-    //josh was here
+    //josh was here1
 
     private BottomNavigationView.OnNavigationItemSelectedListener mOnNavigationItemSelectedListener
             = new BottomNavigationView.OnNavigationItemSelectedListener() {
